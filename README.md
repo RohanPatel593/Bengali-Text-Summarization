@@ -54,7 +54,7 @@ $ source venv/bin/activate
 And clone the repo
 
 ```ssh
-$ git clone https://github.com/porimol/bengali-document-summarizer .
+$ git clone https://github.com/RohanPatel593/Bengali-Text-Summarization .
 ```
 
 Install required packages by running the following command
