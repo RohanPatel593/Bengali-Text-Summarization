@@ -75,7 +75,3 @@ Now you have a local server url. Visit the [http://127.0.0.1:8080/](http://127.0
  * Debugger PIN: 285-251-887
  ```
 
-
-## Live Demo
-Please visit the given link
-[Bengali Document Summarizer](https://bengali-document-summarizer.herokuapp.com/)
